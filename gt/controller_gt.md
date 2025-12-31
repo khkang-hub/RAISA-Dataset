@@ -23,6 +23,6 @@
 
 ## Snowy weather
 - Inform the train driver about any upcoming changes in track conditions or signals. Monitor the train's progress and ensure it is adhering to the speed limits. Be prepared to intervene if the train encounters any unexpected issues or emergencies.
-- 
+
 ## Obstacle cases
 - Immediately alert the train driver about the obstruction on the track. Instruct the train driver to slow down or stop the train, depending on the distance to the obstruction. Notify the local authorities or emergency services to remove the parked car from the track as soon as possible.
