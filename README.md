@@ -59,23 +59,14 @@ As a result, extracted timestamps are not aligned to exact minute marks (e.g., 0
 
 ---
 
-## 2. Download / Access
 
-### Direct folder browsing on GitHub
-- Obstacle images: `data/obstacle/`
-- GT sentences:
-  - Driver GT: `gt/gt_traffic_controller.md`
-  - Dispatcher GT: `gt/gt_traffic_controller.md`
+## 2. Dataset Format
 
----
-
-## 3. Dataset Format
-
-### 3.1 Obstacle image naming
+### 2.1 Obstacle image naming
 - Real: `track_obstacle_##.jpg`
 - Augmented: `track_obstacle_##_<augtype>.jpg`
 
-### 3.2 GT sentence structure
+### 2.2 GT sentence structure
 GT is organized by scenario labels:
 - Daytime (clear weather)
 - Nighttime (clear weather)
@@ -89,7 +80,7 @@ GT is organized by scenario labels:
 
 ---
 
-## 4. Intended Use / Not Intended Use
+## 3. Intended Use / Not Intended Use
 
 ### Intended use
 - RAISA evaluation and reproducible benchmarking on railway safety instruction generation
@@ -100,7 +91,7 @@ GT is organized by scenario labels:
 
 ---
 
-## 5. Citation
+## 4. Citation
 
 Please cite our paper if you use this dataset:
 
@@ -112,14 +103,14 @@ Please cite our paper if you use this dataset:
 
 ---
 
-## 6. License
+## 5. License
 
 - Obstacle images + GT sentences: CC BY 4.0
 - See `LICENSE`.
 
 ---
 
-## 8. Contact
+## 6. Contact
 - Maintainer: KYUNGHO KANG
 - Email: khkang@spa.hanyang.ac.kr
 
