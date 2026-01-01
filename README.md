@@ -104,11 +104,11 @@ GT is organized by scenario labels:
 
 Please cite our paper if you use this dataset:
 
-**RAISA Paper**  
-- Title: RAISA: A Vision-based Intelligent Safety Guidance Agent for Safer Railway Operations via Modular Prompt-Orchestrated Reasoning
-- Authors: Kyung Ho Kang, Kyoung Ok Yang, AND Jun Won Choi
-- Venue/Year: (TODO)
-- DOI/URL: (TODO)
+**RAISA Paper (under review; working title)**  
+- Title (working): *RAISA: A Vision-based Intelligent Safety Guidance Agent for Safer Railway Operations via Modular Prompt-Orchestrated Reasoning*  
+- Authors: Kyung Ho Kang, Kyoung Ok Yang, and Jun Won Choi  
+- Venue/Year: Under review, 2026  
+- DOI/URL: To appear
 
 ---
 
