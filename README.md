@@ -16,8 +16,8 @@ This page provides a **partial public release** of the dataset used in RAISA per
 
 ### 2) Scenario-level Ground Truth (GT) sentences (public)
 We release **GT sentences** for:
-- **Driver (train operator) instruction**
-- **Dispatcher (traffic controller) instruction**
+- **Train Driver (Operator) instruction**
+- **Traffic controller (Dispatcher) instruction**
 
 📁 Paths:
 - `gt/driver_gt.md`
@@ -38,14 +38,11 @@ We release **GT sentences** for:
   - Driver GT: `gt/driver_gt.md`
   - Dispatcher GT: `gt/dispatcher_gt.md`
 
-> If the repository becomes large, consider enabling Git LFS for images.
-
 ---
 
 ## 3. Dataset Format
 
-### 3.1 Obstacle image naming (recommended)
-We recommend the following naming rule (you may adjust):
+### 3.1 Obstacle image naming
 - Real: `OBS_###_REAL.jpg`
 - Augmented: `OBS_###_AUG_<augtype>.jpg`
 
@@ -63,35 +60,7 @@ GT is organized by scenario labels:
 
 ---
 
-## 4. GT Sentences (Embedded View)
-
-Below are **embedded views** of the GT sentence files.
-
-### 4.1 Train Driver GT
-- File: [`gt/driver_gt.md`](../gt/driver_gt.md)
-
-<details>
-<summary>Click to expand (Driver GT)</summary>
-
-> ⚠️ For single-page maintenance, you can paste the full driver GT content here.  
-> Otherwise, keep it in `gt/driver_gt.md` and leave this block as a link-only section.
-
-</details>
-
-### 4.2 Traffic Controller GT
-- File: [`gt/dispatcher_gt.md`](../gt/dispatcher_gt.md)
-
-<details>
-<summary>Click to expand (Dispatcher GT)</summary>
-
-> ⚠️ For single-page maintenance, you can paste the full dispatcher GT content here.  
-> Otherwise, keep it in `gt/dispatcher_gt.md` and leave this block as a link-only section.
-
-</details>
-
----
-
-## 5. Intended Use / Not Intended Use
+## 4. Intended Use / Not Intended Use
 
 ### Intended use
 - RAISA evaluation and reproducible benchmarking on railway safety instruction generation
@@ -102,7 +71,7 @@ Below are **embedded views** of the GT sentence files.
 
 ---
 
-## 6. Citation
+## 5. Citation
 
 Please cite our paper if you use this dataset:
 
@@ -114,7 +83,7 @@ Please cite our paper if you use this dataset:
 
 ---
 
-## 7. License
+## 6. License
 
 - Obstacle images + GT sentences: CC BY 4.0
 - See `LICENSE`.
@@ -126,7 +95,5 @@ Please cite our paper if you use this dataset:
 - Email: khkang@spa.hanyang.ac.kr
 
 ---
-
-“This repository does not redistribute frames extracted from online videos; only obstacle images and author-written GT sentences are provided.”
 
 “No privacy-invasive use (e.g., identification of individuals) is permitted.”
