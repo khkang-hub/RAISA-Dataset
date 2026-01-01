@@ -13,7 +13,7 @@
 - Verify the train’s current location and approach speed toward the upcoming signal. Confirm the signal aspect and route setting, and check for any conflicting movements ahead. If necessary, provide operational information or speed guidance to ensure compliance with the signal indication.
 
 ## Approaching platform
-- Verify the train’s current location and speed as it approaches the platform. Check platform occupancy and any operational restrictions (e.g., speed limits, stop position, or service updates). If necessary, provide relevant guidance to support a safe and timely station approach and stop.
+- Verify the train’s current location and speed as it approaches the platform. Check platform occupancy and any operational restrictions. If necessary, provide relevant guidance to support a safe and timely station approach and stop.
 
 ## Foggy weather
 - Inform the train driver about the foggy conditions and reduced visibility, and advise caution. Monitor the train's progress and be prepared to issue further speed adjustments or stop orders if necessary. Be prepared to intervene if the train encounters any unexpected issues or emergencies.
