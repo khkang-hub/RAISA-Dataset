@@ -11,7 +11,7 @@ This page provides a **partial public release** of the dataset used in RAISA per
 - **320 augmented variants**
 - **Total: 360 images**
 
-📁 Path: `data/obstacle_public/`
+📁 Path: `data/obstacle/`
 
 
 ### 2) Scenario-level Ground Truth (GT) sentences (public)
@@ -27,6 +27,22 @@ We release **GT sentences** for:
 > We do **not** redistribute image frames extracted from online videos due to copyright restrictions.
 > Instead, we only provide the source video URLs and the number of extracted frames.
 > We only release **textual GT** prepared by the author.
+
+
+### 3) Online video sources (links-only)
+We provide **only the source video URLs and the number of extracted frames** (no frame redistribution).
+
+| Source ID | URL | Scenario label(s) | # Extracted frames | Notes |
+|---|---|---|---:|---|
+| YT-001 | (paste URL) | Daytime (clear) | TODO | (optional) sampling rule / segment |
+| YT-002 | (paste URL) | Nighttime (clear) | TODO |  |
+| YT-003 | (paste URL) | Tunnel driving | TODO |  |
+| YT-004 | (paste URL) | Railway signal ahead | TODO |  |
+| YT-005 | (paste URL) | Approaching platform | TODO |  |
+| YT-006 | (paste URL) | Foggy weather | TODO |  |
+| YT-007 | (paste URL) | Rainy weather | TODO |  |
+| YT-008 | (paste URL) | Snowy weather | TODO |  |
+| YT-009 | (paste URL) | Mixed / Multiple | TODO | (optional) dominant label policy |
 
 ---
 
