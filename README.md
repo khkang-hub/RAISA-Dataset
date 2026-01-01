@@ -20,8 +20,8 @@ We release **GT sentences** for:
 - **Traffic controller (Dispatcher) instruction**
 
 📁 Paths:
-- `gt/driver_gt.md`
-- `gt/dispatcher_gt.md`
+- `gt/gt_train_driver.md`
+- `gt/gt_traffic_controller.md`
 
 > Note:
 > We do **not** redistribute image frames extracted from online videos due to copyright restrictions.
@@ -64,8 +64,8 @@ As a result, extracted timestamps are not aligned to exact minute marks (e.g., 0
 ### Direct folder browsing on GitHub
 - Obstacle images: `data/obstacle/`
 - GT sentences:
-  - Driver GT: `gt/driver_gt.md`
-  - Dispatcher GT: `gt/dispatcher_gt.md`
+  - Driver GT: `gt/gt_traffic_controller.md`
+  - Dispatcher GT: `gt/gt_traffic_controller.md`
 
 ---
 
