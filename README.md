@@ -128,3 +128,9 @@ Please cite our paper if you use this dataset:
 ## 8. Contact
 - Maintainer: KYUNGHO KANG
 - Email: khkang@spa.hanyang.ac.kr
+
+---
+
+“This repository does not redistribute frames extracted from online videos; only obstacle images and author-written GT sentences are provided.”
+
+“No privacy-invasive use (e.g., identification of individuals) is permitted.”
