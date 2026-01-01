@@ -63,7 +63,7 @@ GT is organized by scenario labels:
 - Foggy weather
 - Rainy weather
 - Snowy weather
-- (Obstacle cases can be included as well, if desired)
+- Obstacle
 
 ---
 
@@ -71,7 +71,7 @@ GT is organized by scenario labels:
 
 Below are **embedded views** of the GT sentence files.
 
-### 4.1 Driver GT
+### 4.1 Train Driver GT
 - File: [`gt/driver_gt.md`](../gt/driver_gt.md)
 
 <details>
@@ -82,7 +82,7 @@ Below are **embedded views** of the GT sentence files.
 
 </details>
 
-### 4.2 Dispatcher GT
+### 4.2 Traffic Controller GT
 - File: [`gt/dispatcher_gt.md`](../gt/dispatcher_gt.md)
 
 <details>
@@ -111,8 +111,8 @@ Below are **embedded views** of the GT sentence files.
 Please cite our paper if you use this dataset:
 
 **RAISA Paper**  
-- Title: (TODO)
-- Authors: (TODO)
+- Title: RAISA: A Vision-based Intelligent Safety Guidance Agent for Safer Railway Operations via Modular Prompt-Orchestrated Reasoning
+- Authors: Kyung Ho Kang, Kyoung Ok Yang, AND Jun Won Choi
 - Venue/Year: (TODO)
 - DOI/URL: (TODO)
 
@@ -120,11 +120,11 @@ Please cite our paper if you use this dataset:
 
 ## 7. License
 
-- Obstacle images + GT sentences: **(Choose one) CC BY 4.0 / CC BY-NC 4.0**
+- Obstacle images + GT sentences: CC BY 4.0
 - See `LICENSE`.
 
 ---
 
 ## 8. Contact
-- Maintainer: (Your name)
-- Email: (optional)
+- Maintainer: KYUNGHO KANG
+- Email: khkang@spa.hanyang.ac.kr
