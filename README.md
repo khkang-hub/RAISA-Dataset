@@ -72,8 +72,8 @@ As a result, extracted timestamps are not aligned to exact minute marks (e.g., 0
 ## 3. Dataset Format
 
 ### 3.1 Obstacle image naming
-- Real: `OBS_###_REAL.jpg`
-- Augmented: `OBS_###_AUG_<augtype>.jpg`
+- Real: `track_obstacle_##.jpg`
+- Augmented: `track_obstacle_##_<augtype>.jpg`
 
 ### 3.2 GT sentence structure
 GT is organized by scenario labels:
