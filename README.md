@@ -1,4 +1,4 @@
-# RAISA Partial Dataset Release (Obstacle 360 + Scenario GT)
+# RAISA Dataset Release (Obstacle 360 + Scenario GT)
 
 This page provides a **partial public release** of the dataset used in RAISA performance evaluation.
 
