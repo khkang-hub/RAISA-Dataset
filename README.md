@@ -11,7 +11,7 @@ This page provides a **partial public release** of the dataset used in RAISA per
 - **320 augmented variants**
 - **Total: 360 images**
 
-📁 Path: `data/obstacle/`
+📁 Path: `[Download link](https://drive.google.com/file/d/10KpeBKiI0glV_Brfv_v1Z97SzXIVcUuN/view?usp=drive_link)`
 
 
 ### 2) Scenario-level Ground Truth (GT) sentences (public)
