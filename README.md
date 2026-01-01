@@ -29,20 +29,33 @@ We release **GT sentences** for:
 > We only release **textual GT** prepared by the author.
 
 
-### 3) Online video sources (links-only)
-We provide **only the source video URLs and the number of extracted frames** (no frame redistribution).
+### 3) Online video sources (links-only) and manual scenario labeling
 
-| Source ID | URL | Scenario label(s) | # Extracted frames | Notes |
-|---|---|---|---:|---|
-| YT-001 | (paste URL) | Daytime (clear) | TODO | (optional) sampling rule / segment |
-| YT-002 | (paste URL) | Nighttime (clear) | TODO |  |
-| YT-003 | (paste URL) | Tunnel driving | TODO |  |
-| YT-004 | (paste URL) | Railway signal ahead | TODO |  |
-| YT-005 | (paste URL) | Approaching platform | TODO |  |
-| YT-006 | (paste URL) | Foggy weather | TODO |  |
-| YT-007 | (paste URL) | Rainy weather | TODO |  |
-| YT-008 | (paste URL) | Snowy weather | TODO |  |
-| YT-009 | (paste URL) | Mixed / Multiple | TODO | (optional) dominant label policy |
+Due to copyright restrictions, we do **not** redistribute image frames extracted from online videos.
+Instead, we provide **only the source video URLs and the number of extracted frames**.
+
+**Data collection procedure.** Frames were **not collected per scenario** at the time of extraction.
+We first extracted frames from each source video following a uniform sampling policy; therefore, the **number of extracted frames varies by video length**.
+We then **manually assigned scenario labels** by inspecting each extracted frame.
+
+**Sampling policy.** For each source video, we sampled frames at **1-minute intervals**.
+Within each 1-minute window, we randomly selected one timestamp and extracted the corresponding frame.
+As a result, extracted timestamps are not aligned to exact minute marks (e.g., 00:15, 01:02, 02:38, ...).
+
+> “# Extracted frames” denotes the number of image frames extracted **from the corresponding source video** and used in our internal evaluation.
+
+| Source ID | URL | # Extracted frames |
+|---|---|---:|
+| YT-001 | (paste URL) | 162 |
+| YT-002 | (paste URL) | TODO |
+| YT-003 | (paste URL) | TODO |
+| YT-004 | (paste URL) | TODO |
+| YT-005 | (paste URL) | TODO |
+| YT-006 | (paste URL) | TODO |
+| YT-007 | (paste URL) | TODO |
+| YT-008 | (paste URL) | TODO |
+| YT-009 | (paste URL) | TODO |
+
 
 ---
 
