@@ -46,15 +46,29 @@ As a result, extracted timestamps are not aligned to exact minute marks (e.g., 0
 
 | Source ID | URL | # Extracted frames |
 |---|---|---:|
-| YT-001 | (paste URL) | 162 |
-| YT-002 | (paste URL) | TODO |
-| YT-003 | (paste URL) | TODO |
-| YT-004 | (paste URL) | TODO |
-| YT-005 | (paste URL) | TODO |
-| YT-006 | (paste URL) | TODO |
-| YT-007 | (paste URL) | TODO |
-| YT-008 | (paste URL) | TODO |
-| YT-009 | (paste URL) | TODO |
+| 001 | https://www.youtube.com/watch?v=_L2H5-jE6ts | 483 |
+| 002 | https://www.youtube.com/watch?v=tqjx4Hu8KpY | 1533 |
+| 003 | https://www.youtube.com/watch?v=3m0wMrvvbs0&list=PLS58inbn9oJXjEnsaZvJZVfrjbwE0VQ2B | 452 |
+| 004 | https://www.youtube.com/watch?v=i0E41L7pxzY | 634 |
+| 005 | https://www.youtube.com/watch?v=aBXW4uEurns | 587 |
+| 006 | https://www.youtube.com/watch?v=zCoCOHOYd28 | 736 |
+| 007 | https://www.youtube.com/watch?v=Mw9qiV7XlFs | 354 |
+| 008 | https://www.youtube.com/watch?v=L-O0k1oF9_Y | 727 |
+| 009 | https://www.youtube.com/watch?v=5E2ycdUi2m8&list=PLWoUS6jbUY-ovODHQBDkvR4w-W9ARQmRT | 1626 |
+| 010 | https://www.youtube.com/watch?v=wVCaef0oZmQ | 285 |
+| 011 | https://www.youtube.com/watch?v=x8ez4XNT080 | 651 |
+| 012 | https://www.youtube.com/watch?v=w-4BP8MRuis | 645 |
+| 013 | https://www.youtube.com/watch?v=-ZWiyFtyBrs&list=PLqVXtaI0Orw6z3e7q2fe16IE1KsPbbilZ&index=5 | 717 |
+| 014 | https://www.youtube.com/watch?v=UPKpH0YvGeI&list=PLqVXtaI0Orw6z3e7q2fe16IE1KsPbbilZ&index=6 | 649 |
+| 015 | https://www.youtube.com/watch?v=jGpt3Nvnqis&list=PLqVXtaI0Orw6z3e7q2fe16IE1KsPbbilZ&index=7 | 695 |
+| 016 | https://www.youtube.com/watch?v=xvhvhtxzbrQ&list=PLqVXtaI0Orw6z3e7q2fe16IE1KsPbbilZ&index=10 | 589 |
+| 017 | https://www.youtube.com/watch?v=9j7aGqhHffo&list=PLqVXtaI0Orw6z3e7q2fe16IE1KsPbbilZ&index=18 | 600 |
+| 018 | https://www.youtube.com/watch?v=aweycDW7eLE&list=PLqVXtaI0Orw7aXSlJQWfXCT46MDgvgqmp&index=4 | 543 |
+| 019 | https://www.youtube.com/watch?v=G2nTCr5spQY&list=PLWoUS6jbUY-pwPC1C397w8BoG-0bMqr_o&index=5 | 321 |
+| 020 | https://www.youtube.com/watch?v=WmeZnG-nDhk&list=PLq9tAKxg4w28e9Dw5f8qcCclGjoXbFT9y&index=43 | 51 |
+| 021 | https://www.youtube.com/watch?v=XdU3W2IOdBw  | 14 |
+| 022 | https://www.youtube.com/watch?v=ukOHqdPbYYg | 117 |
+| 023 | https://www.youtube.com/watch?v=pphgq49lslI | 324 |
 
 
 ---
