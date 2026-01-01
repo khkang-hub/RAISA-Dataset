@@ -13,7 +13,6 @@ This page provides a **partial public release** of the dataset used in RAISA per
 
 📁 Path: `data/obstacle_public/`
 
-> Note: We release only the obstacle images captured/augmented by the author.
 
 ### 2) Scenario-level Ground Truth (GT) sentences (public)
 We release **GT sentences** for:
@@ -24,20 +23,17 @@ We release **GT sentences** for:
 - `gt/driver_gt.md`
 - `gt/dispatcher_gt.md`
 
-> Note: For other scenarios derived from online videos, we do **not** redistribute extracted frames.  
+> Note:
+> We do **not** redistribute image frames extracted from online videos due to copyright restrictions.
+> Instead, we only provide the source video URLs and the number of extracted frames.
 > We only release **textual GT** prepared by the author.
 
 ---
 
 ## 2. Download / Access
 
-### Option A) Git clone
-- Clone this repository and access:
-  - `data/obstacle_public/`
-  - `gt/driver_gt.md`, `gt/dispatcher_gt.md`
-
-### Option B) Direct folder browsing on GitHub
-- Obstacle images: `data/obstacle_public/`
+### Direct folder browsing on GitHub
+- Obstacle images: `data/obstacle/`
 - GT sentences:
   - Driver GT: `gt/driver_gt.md`
   - Dispatcher GT: `gt/dispatcher_gt.md`
