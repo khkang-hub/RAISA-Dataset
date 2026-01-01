@@ -1,13 +1,13 @@
 # Traffic Controller GT Sentences (Scenario-level)
 
 ## Daytime (clear weather)
-- Verify the train's current location and speed. Check for any upcoming signals, track conditions, or other trains on the same track. Provide clear instructions to the train driver, such as speed limits, upcoming signals, or any necessary changes in direction.
+- Verify the train's current location and speed. Check for any upcoming signals, track conditions, or other trains on the same track. If necessary, provide clear instructions to the train driver, such as speed limits, upcoming signals, or any necessary changes in direction.
  
 ## Nighttime (clear weather)
-- Verify the train's current location and speed. Check for any upcoming signals or track conditions that may affect the train's safe passage. Communicate with the train driver to confirm the train's safe continuation and provide any necessary instructions or warnings.
+- Verify the train's current location and speed. Check for any upcoming signals or track conditions that may affect the train's safe passage under reduced visibility at night. If necessary, communicate with the train driver to confirm the train's safe continuation and provide any necessary instructions or warnings.
 
 ## Tunnel driving
-- Verify the train's speed and location to ensure it is within safe limits for the tunnel. Communicate with the train driver to confirm the train's status and any potential issues. Monitor the train's progress through the tunnel and standby for any emergency signals or requests.
+- Verify the train's speed and location to ensure it is within safe limits for the tunnel. Monitor the train's progress through the tunnel and standby for any emergency signals or requests. If necessary, communicate with the train driver to confirm the train's status and any potential issues. 
 
 ## Railway signal ahead
 - Inform the train driver about the obstacle or signal on the track. Provide the train driver with the necessary speed instructions to slow down or stop the train safely. Monitor the train's progress to ensure it is following the given instructions and will not collide with the obstacle or disregard the signal.
